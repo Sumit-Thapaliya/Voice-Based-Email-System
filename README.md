@@ -11,10 +11,15 @@ cp  .env
 Open `.env` and fill in:
 
 EMAIL_USER=your_email@gmail.com
+
 EMAIL_PASS=your_16_char_app_password
+
 SMTP_SERVER=smtp.gmail.com
+
 SMTP_PORT=587
+
 IMAP_SERVER=imap.gmail.com
+
 SECRET_KEY=change-me-to-something-random
 
 
